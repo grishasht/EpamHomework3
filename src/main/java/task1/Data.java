@@ -8,4 +8,5 @@ public abstract class Data implements Expression{
         this.operand1 = operand1;
         this.operand2 = operand2;
     }
+
 }
