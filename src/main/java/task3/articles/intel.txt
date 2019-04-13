@@ -1,0 +1,13 @@
+Intel Corporation was founded on July 18, 1968, by semiconductor
+pioneers Robert Noyce and Gordon Moore (of Moore's law), and
+widely associated with the executive leadership and vision of
+Andrew Grove. The company's name was conceived as portmanteau of
+the words integrated and electronics, with co-founder Noyce
+having been a key inventor of the integrated circuit (microchip).
+The fact that "intel" is the term for intelligence information
+also made the name appropriate.[6] Intel was an early developer
+of SRAM and DRAM memory chips, which represented the majority of
+its business until 1981. Although Intel created the world's first
+commercial microprocessor chip in 1971, it was not until the
+success of the personal computer (PC) that this became its
+primary business.

@@ -1,6 +1,5 @@
 package task1;
 
-import java.util.Scanner;
 
 public class CreateTree{
     private static Integer[] operands = Parser.createExpression();
