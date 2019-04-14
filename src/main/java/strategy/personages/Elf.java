@@ -1,11 +1,18 @@
 package strategy.personages;
 
 import strategy.actions.ChooseAbillity;
-import strategy.actions.Fly;
 
 public class Elf implements Personage{
+    private ChooseAbillity abillity;
+
+    @Override
+    public Personage setAbillity(ChooseAbillity abillity) {
+        this.abillity = abillity;
+        return this;
+    }
+
     @Override
     public String action() {
-        return "Elf can " + new ChooseAbillity(new Fly()).chooseAbillity();
+        return "Elf can " + abillity.chooseAbillity();
     }
 }

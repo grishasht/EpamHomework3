@@ -7,8 +7,8 @@ public class ChooseAbillity {
         this.abillity = abillity;
     }
 
-    public void setAbillity(Abillity abillity) {
-        this.abillity = abillity;
+    public static void setAbillity(Abillity abillity) {
+        ChooseAbillity.abillity = abillity;
     }
 
     public static String chooseAbillity(){
